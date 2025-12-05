@@ -42,5 +42,4 @@ pose extraction, swing detection, feature extraction, and scoring.
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
-source venv/bin/activate   # Windows: venv\Scripts\activate
-pip install -r requirements.txt
+
